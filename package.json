@@ -1,0 +1,14 @@
+{
+  "name": "engsoftwareii",
+  "version": "1.0.0",
+  "description": "Descrição do projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jaque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
